@@ -125,7 +125,7 @@ Sección central del sistema:
 
 El siguiente vídeo muestra el funcionamiento completo del dashboard, desde la captura de imágenes hasta la generación final de una plantilla DCP.
 
-[![Ver demo del dashboard](https://www.youtube.com/watch?v=kCma6vsQI48)](https://www.youtube.com/watch?v=kCma6vsQI48)
+[![Ver demo del dashboard](https://img.youtube.com/vi/kCma6vsQI48/hqdefault.jpg)](https://www.youtube.com/watch?v=kCma6vsQI48)
 
 ## 🛠️ Tecnologías del Frontend
 
